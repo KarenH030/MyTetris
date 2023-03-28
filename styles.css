@@ -1,0 +1,40 @@
+#start-button {
+    width: 150px;
+    height: 35px;
+
+}
+
+.container {
+    display: flex;
+}
+
+.grid {
+    margin-left: 650px;
+    width: 350px;
+    height: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(152, 190, 192);
+}
+
+.grid div {
+    width: 35px;
+    height: 35px;
+    
+}
+
+.mini-grid {
+    margin-left: 60px;
+    width: 140px;
+    height: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(152, 190, 192);
+}
+
+
+
+.mini-grid div {
+    height: 35px;
+    width: 35px;
+}
